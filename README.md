@@ -4,9 +4,6 @@
 
 As far as I known, this file contains relevant papers about CDFSL in top conferences (or preprint) till now. Feel free to let me know if there is more awesome paper in CDFSL.
 
-我们致力于推荐好的工作给所有有兴趣在CDFSL领域深耕的学者/学生。欢迎来一起加入建设CDFSL社区。
-
-We are committed to recommending good jobs to all scholars/students who are interested in deepening the field of CDFSL. Welcome to join and develop the CDFSL community.
 
 ## Extremely Different Tasks Challenge
 - [ECCV 2020] A Broader Study of Cross-Domain Few-Shot Learning [Paper](https://arxiv.org/abs/1912.07200)
