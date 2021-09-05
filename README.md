@@ -6,6 +6,8 @@ As far as I known, this file contains relevant papers about CDFSL in top confere
 
 
 ## 2021
+- [ACM 2021] Meta-FDMixup: Cross-Domain Few-Shot Learning Guided by Labeled Target Datg [Paper](https://arxiv.org/abs/2107.11978)
+
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br> 
 *[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02699)] [[Project](https://yuval-alaluf.github.io/restyle-encoder/)] [[Github](https://github.com/yuval-alaluf/restyle-encoder)]
